@@ -1,6 +1,6 @@
 # My Git Project
 
-> My Code for the Git Project
+> My Scary Merge Conflict code
 
 ## I'm in the feature Branch
 
@@ -9,6 +9,5 @@
 > made changes for git pull demo
 
 > made even more changes for git pull/fetch demo
-
 
 >readme update for removing
